@@ -1,6 +1,7 @@
 # man_woman_cnn_part1
 ## 記事
-*スクレイピング：https://cpptake.com/archives/268 *モデル作成　　：https://cpptake.com/archives/303
+*スクレイピング：https://cpptake.com/archives/268 
+*モデル作成　　：https://cpptake.com/archives/303
 
 ## 概要
 男女識別AIのスクレイピング、前処理、モデル作成までのコードを残します。
